@@ -1,6 +1,6 @@
 # EDA de Produtos Agrícolas
 
-Análise exploratória de dados dos preços de produtos agrícolas entre 1990 e 2020.
+Análise exploratória de dados de variaçção de preços de produtos agrícolas entre 1990 e 2020.
 
 ## Visão geral
 
@@ -46,4 +46,4 @@ Este projeto contém um estudo de exploração de dados (EDA) sobre a evolução
 ## Observações
 
 - Os notebooks contêm a análise principal e não foram alterados.
-- O arquivo de dados está localizado em `data/raw/agricultural_product_prices_1990_2020.csv`.
+- O arquivo de dados está localizado em [`data/raw/agricultural_product_prices_1990_2020.csv`](https://www.kaggle.com/datasets/kianwee/agricultural-raw-material-prices-19902020).
