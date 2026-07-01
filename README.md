@@ -1,6 +1,6 @@
 # EDA de Produtos Agrícolas
 
-Análise exploratória de dados de variaçção de preços de produtos agrícolas entre 1990 e 2020.
+Análise exploratória de dados de variação de preços de produtos agrícolas entre 1990 e 2020.
 
 ## Visão geral
 
